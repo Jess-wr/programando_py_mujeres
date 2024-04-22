@@ -32,12 +32,14 @@ button:active {
 }
 
 .letter {
-    border: 1px solid black;
+    border-radius: 10%;
+    border-color: none;
     padding: 3px;
     margin: 3px;
     min-width: 20px;
     text-align: center;
     display: inline-block
+
 }
 
 .row{
